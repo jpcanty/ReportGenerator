@@ -1,0 +1,4 @@
+# ReportGenerator
+
+Dependencies:
+ - pandas
